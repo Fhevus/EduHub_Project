@@ -464,8 +464,8 @@
   },
   "user_id": "U999",
   "email": "newuser@example.com",
-  "first_name": "Feyisayo",
-  "last_name": "Ajiboye",
+  "first_name": "Emeka",
+  "last_name": "Favour",
   "date_joined": {
     "$date": "2025-06-11T23:52:02.917Z"
   },
@@ -487,8 +487,8 @@
   },
   "user_id": "U999",
   "email": "newuser@example.com",
-  "first_name": "Feyisayo",
-  "last_name": "Ajiboye",
+  "first_name": "Emeka",
+  "last_name": "Favour",
   "date_joined": {
     "$date": "2025-06-11T23:57:01.710Z"
   },
@@ -510,8 +510,8 @@
   },
   "user_id": "U999",
   "email": "newuser@example.com",
-  "first_name": "Feyisayo",
-  "last_name": "Ajiboye",
+  "first_name": "Emeka",
+  "last_name": "Favour",
   "date_joined": {
     "$date": "2025-06-11T23:58:55.250Z"
   },
@@ -533,8 +533,8 @@
   },
   "user_id": "U999",
   "email": "newuser@example.com",
-  "first_name": "Feyisayo",
-  "last_name": "Ajiboye",
+  "first_name": "Emeka",
+  "last_name": "Favour",
   "date_joined": {
     "$date": "2025-06-12T00:02:14.572Z"
   },
